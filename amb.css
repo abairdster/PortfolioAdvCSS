@@ -1,0 +1,15 @@
+main { 
+    border: 1px solid powderblue;
+    background-color: cornflowerblue;
+    min-height: 90vh;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap:wrap;
+}
+.box { 
+    background: whitesmoke;
+    font-size: 36px;
+    border: 1px solid blue;
+    flex-basis:1000px;
+    flex-grow: 1;
+    flex-shrink: 0;
